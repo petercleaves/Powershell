@@ -18,7 +18,7 @@ $smtp = "gvnysmtp"
 $from = "CDC_Flu_Data@glenviewcapital.com"
 #$to = @("")
 $to = @("")
-#$to = @("rtang@glenviewcapital.com")
+#$to = @("pcleaves@glenviewcapital.com")
 $cc = "@glenviewcapital.com"
 $subject = " Flu Week " + ((get-date -UFormat %V) - 1) + "-" + (get-date -UFormat %Y)
 $body = "<html><body style=`"font-family:calibri`">" 
