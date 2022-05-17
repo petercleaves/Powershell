@@ -1,5 +1,5 @@
 # Powershell repo
-Sample of work - PowerShell scripts , sensitive data has been removed
+Sample of work - PowerShell scripts , sensitive data has been removed.
 
 
 Additional information:<br>
